@@ -1,0 +1,66 @@
+body {
+  font-family: 'Courier New',monospace;
+  min-height: 854px;
+  background-image: url('https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  color:green;
+  width: 200px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.calculadora {
+  width: 503px;
+  height: 580px;
+  background-image: url('https://pbs.twimg.com/media/ExLZpylUYAYQzdI?format=png&name=small');
+  margin: 0 auto;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  position: absolute;
+  font-size:35px;
+  font-weight:bold;
+  top: 75px;
+  left: calc(48% - 72.5px);
+  width: 195px;
+  text-align:center;
+}
+p {
+  font-family: 'Andale Mono', monospace;
+  color: #ffffff;
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 50px;
+  left:10px;
+}
